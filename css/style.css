@@ -1682,6 +1682,10 @@ body {
     padding: 20px 20px 0px 20px;
     height: calc(100*1px); }
 
+.media-mainslider__image img {
+  top: 50px;  
+}
+
 .price-filter__inputs {
   display: -webkit-box;
   display: -ms-flexbox;
